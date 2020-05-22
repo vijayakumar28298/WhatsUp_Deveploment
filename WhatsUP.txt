@@ -6,3 +6,4 @@ Author : Meenakshi
 2.chat screen code
 3.Last seen code
 4.Attachement (image,Audio,video) code
+Hiding last seen changes
