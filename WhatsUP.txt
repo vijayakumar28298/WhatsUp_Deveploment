@@ -6,4 +6,7 @@ Author : Meenakshi
 2.chat screen code
 3.Last seen code
 4.Attachement (image,Audio,video) code
-Hiding last seen changes
+5.Hiding last seen changes
+6.Adding the Audio call feature
+7.Adding the Video call feature
+
